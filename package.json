@@ -1,6 +1,6 @@
 {
   "name": "@minji0830/my-map-function",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,5 +9,11 @@
   "keywords": ["myMap", "mymapfunction"],
   "author": "Minji",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Han-minJI/my-map-function.git"
+  }
+
+  
 }
