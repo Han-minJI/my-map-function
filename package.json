@@ -1,0 +1,12 @@
+{
+  "name": "@minji0830/my-map-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
